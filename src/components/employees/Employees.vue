@@ -109,6 +109,7 @@ export default {
         cursor: pointer;
         float: left;
         width:200px;
+        margin-top:10px;
         margin-bottom: 30px;
         margin-right: 30px;
         box-shadow: 0 2px 12px 0 rgba(0,0,0,.1);

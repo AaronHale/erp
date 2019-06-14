@@ -9,7 +9,7 @@
         </div>
         <div class="detail">
             <div class="item avatar">
-                <img src="../../assets/images/user.jpg" alt="" width="120">
+                <img src="../../assets/images/user.jpg" alt="" width="120" height="120">
             </div>
             <div class="item name">
                 姓名：<span>Steve Jobs</span>
